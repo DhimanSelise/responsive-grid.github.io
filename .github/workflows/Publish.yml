@@ -3,7 +3,7 @@ name: Build and Deploy to GitHub Pages
 on:
   push:
     branches:
-      - dev # Trigger the workflow only on pushes to the dev branch
+      - dev # Trigger the workflow only on pushes to the dev 
 
 jobs:
   build-and-deploy:
